@@ -5,7 +5,7 @@
   "contact": "Contact",
   "heroTitle": "Your Dream Car",
   "heroSubtitle": "Discover the right vehicle for every journey at Space Automotive.",
-  "exploreModels": "Explore Models",
+  "exploreModels": "Explore",
   "featuredVehiclesTitle": "Featured Vehicles",
   "vehicleName1": "Space X-Wing",
   "vehicleDescription1": "High-performance and luxurious driving experience.",
@@ -155,5 +155,8 @@
   "statusInfoTitle": "Status Information",
   "damageRecordLabel": "Heavy Damage Record",
   "paintReplaceLabel": "Paint/Replace",
-  "replacedPartsTitle": "Replaced Parts"
+  "replacedPartsTitle": "Replaced Parts",
+  
+  "companyOverviewTitle": "The Future of Automotive Experience Starts Here",
+  "companyOverviewText": "Space Automotive is designed to make it easier for users to find the car that best suits their needs. With our innovative solutions, we lead the digital transformation in the automotive industry. Our reliable infrastructure, strong partnerships, and user-centric approach bring the future of car shopping today."
 }

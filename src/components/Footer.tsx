@@ -6,7 +6,7 @@ const Footer = () => {
   const { t } = useTranslation();
 
   const navLinks = [
-    { name: t('models'), href: '/models' },
+    { name: t('home'), href: '/' },
     { name: t('about'), href: '/about' },
     { name: t('contact'), href: '/contact' },
   ];
@@ -35,7 +35,12 @@ const Footer = () => {
             <h3 className="font-semibold mb-4">{t('footerQuickLinks')}</h3>
             <nav className="flex flex-col items-center gap-2">
               {navLinks.map((link) => (
-                <Link key={link.name} to={link.href} className="text-muted-foreground hover:text-primary transition-colors">
+                <Link
+                  key={link.name}
+                  to={link.href}
+                  onClick={() => window.scrollTo(0, 0)}
+                  className="text-muted-foreground hover:text-primary transition-colors"
+                >
                   {link.name}
                 </Link>
               ))}

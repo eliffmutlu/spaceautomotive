@@ -5,7 +5,7 @@
   "contact": "İletişim",
   "heroTitle": "Hayalinizdeki Araç",
   "heroSubtitle": "Her yolculuk için doğru aracı Space Automotive'de keşfedin.",
-  "exploreModels": "Modelleri Keşfet",
+  "exploreModels": "Keşfet",
   "featuredVehiclesTitle": "Öne Çıkan Araçlar",
   "vehicleName1": "Space X-Wing",
   "vehicleDescription1": "Yüksek performanslı ve lüks bir sürüş deneyimi.",
@@ -155,5 +155,8 @@
   "statusInfoTitle": "Durum Bilgileri",
   "damageRecordLabel": "Ağır Hasar Kaydı",
   "paintReplaceLabel": "Boya/Değişen",
-  "replacedPartsTitle": "Değişen Parçalar"
+  "replacedPartsTitle": "Değişen Parçalar",
+
+  "companyOverviewHeading": "Space Automotive",
+  "companyOverviewDescription": "Space Automotive, kullanıcıların ihtiyaçlarına en uygun aracı bulmasını kolaylaştırmak için geliştirildi. Güvenilir altyapımız, güçlü iş ortaklarımız ve kullanıcı odaklı yaklaşımımız sayesinde ihtiyacınıza uygun araç alışverişini sizlere sunuyoruz."
 }

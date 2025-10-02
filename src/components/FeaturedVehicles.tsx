@@ -1,3 +1,5 @@
+// Temporarily disabled FeaturedVehicles component
+/*
 import React from 'react';
 import { Link } from 'react-router-dom';
 import { useTranslation } from 'react-i18next';
@@ -60,3 +62,4 @@ const FeaturedVehicles: React.FC<FeaturedVehiclesProps> = ({ title }) => {
 };
 
 export default FeaturedVehicles;
+*/

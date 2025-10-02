@@ -1,5 +1,6 @@
 import Hero from '../components/Hero';
-import FeaturedVehicles from '../components/FeaturedVehicles';
+import CompanyOverview from '../components/CompanyOverview';
+//import FeaturedVehicles from '../components/FeaturedVehicles';
 import WhyChooseUs from '../components/WhyChooseUs';
 import CallToAction from '../components/CallToAction';
 import { useTranslation } from 'react-i18next';
@@ -34,7 +35,8 @@ const Home = () => {
         subtitle={t('heroSubtitle')}
         buttonText={t('exploreModels')}
       />
-      <FeaturedVehicles title={t('featuredVehiclesTitle')} />
+      <CompanyOverview />
+      {/* <FeaturedVehicles title={t('featuredVehiclesTitle')} /> */}
       <WhyChooseUs
         title={t('aboutWhySpaceAutomotiveTitle')}
         subtitle={t('aboutWhySpaceAutomotiveSubtitle')}

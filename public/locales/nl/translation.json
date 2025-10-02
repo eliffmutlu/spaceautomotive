@@ -5,7 +5,7 @@
   "contact": "Contact",
   "heroTitle": "Uw Droomauto",
   "heroSubtitle": "Ontdek het juiste voertuig voor elke reis bij Space Automotive.",
-  "exploreModels": "Ontdek Modellen",
+  "exploreModels": "Ontdek",
   "featuredVehiclesTitle": "Uitgelichte Voertuigen",
   "vehicleName1": "Space X-Wing",
   "vehicleDescription1": "Hoogwaardige en luxueuze rijervaring.",
@@ -155,5 +155,7 @@
   "statusInfoTitle": "Statusinformatie",
   "damageRecordLabel": "Zware Schade Registratie",
   "paintReplaceLabel": "Lak/Vervangen",
-  "replacedPartsTitle": "Vervangen Onderdelen"
+  "replacedPartsTitle": "Vervangen Onderdelen",
+  "companyOverviewHeading": "Space Automotive",
+  "companyOverviewDescription": "Space Automotive is ontwikkeld om het voor gebruikers eenvoudiger te maken de auto te vinden die het beste bij hun behoeften past. Met onze betrouwbare infrastructuur, sterke partnerschappen en klantgerichte aanpak bieden wij u de auto-ervaring die aansluit bij uw behoeften."
 }

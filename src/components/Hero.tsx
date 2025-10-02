@@ -18,7 +18,7 @@ const Hero: React.FC<HeroProps> = ({ title, subtitle, buttonText }) => {
         <p className="text-xl md:text-2xl mb-8 max-w-2xl mx-auto drop-shadow-md">
           {subtitle}
         </p>
-        <Link to="/models">
+        <Link to="/about">
           <button className="px-8 py-4 bg-gradient-to-r from-[#0540f2] to-[#020873] text-white font-bold rounded-full shadow-lg hover:from-[#020873] hover:to-[#0540f2] transition-all duration-300 transform hover:scale-105">
             {buttonText}
           </button>
