@@ -51,14 +51,14 @@ const Contact = () => {
               <div className="space-y-4 text-muted-foreground text-center">
                 <div className="justify-center flex items-center gap-4"><MapPin className="h-6 w-6 text-primary" /><span>Melbournestraat 14, 1175 RM Lijnden</span></div>
                 <div className="justify-center flex items-center gap-4"><Mail className="h-6 w-6 text-primary" /><span>info@spaceautomotive.com</span></div>
-                <div className="justify-center flex items-center gap-4"><Phone className="h-6 w-6 text-primary" /><span>+31 6 85241779</span></div>
+                <div className="justify-center flex items-center gap-4"><Phone className="h-6 w-6 text-primary" /><span>+316 87 06 66 51</span></div>
               </div>
             </div>
             <div className="mt-12 pt-8 border-t">
                <h3 className="text-2xl font-bold mb-4 text-center">{t('contactInstantResponseTitle')}</h3>
                <p className="text-muted-foreground mb-6 text-center">{t('contactInstantResponseSubtitle')}</p>
                <Button asChild size="lg" className="w-full sm:w-auto mx-auto bg-[#25D366] hover:bg-[#128C7E] text-white font-bold shadow-lg transition-transform transform hover:scale-105">
-                 <a href="https://wa.me/31685241779" target="_blank" rel="noopener noreferrer">
+                 <a href="https://wa.me/31687066651" target="_blank" rel="noopener noreferrer">
                    <MessageCircle className="mr-3 h-6 w-6" />
                    {t('contactWhatsAppButton')}
                  </a>
