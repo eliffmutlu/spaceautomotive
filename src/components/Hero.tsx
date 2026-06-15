@@ -9,7 +9,7 @@ interface HeroProps {
 
 const Hero: React.FC<HeroProps> = ({ title, subtitle, buttonText }) => {
   return (
-    <section className="relative h-screen bg-cover bg-center flex items-center justify-center text-white" style={{ backgroundImage: "url('https://images.pexels.com/photos/2127740/pexels-photo-2127740.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2')" }}>
+    <section className="relative h-screen bg-cover bg-center flex items-center justify-center text-white" style={{ backgroundImage: "url('/hero.jpg')" }}>
       <div className="absolute inset-0 bg-black opacity-60"></div>
       <div className="relative z-10 text-center px-4">
         <h1 className="text-5xl md:text-6xl font-extrabold leading-tight mb-4 drop-shadow-lg">
