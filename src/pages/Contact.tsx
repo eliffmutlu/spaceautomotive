@@ -49,7 +49,7 @@ const Contact = () => {
             <div>
               <h3 className="text-2xl font-bold mb-4 text-center">{t('contactInfoTitle')}</h3>
               <div className="space-y-4 text-muted-foreground text-center">
-                <div className="justify-center flex items-center gap-4"><MapPin className="h-6 w-6 text-primary" /><span>Melbournestraat 14, 1175 RM Lijnden</span></div>
+                <div className="justify-center flex items-center gap-4"><MapPin className="h-6 w-6 text-primary" /><span>Tokyostraat 17b, 1175 RB Lijnden</span></div>
                 <div className="justify-center flex items-center gap-4"><Mail className="h-6 w-6 text-primary" /><span>info@spaceautomotive.com</span></div>
                 <div className="justify-center flex items-center gap-4"><Phone className="h-6 w-6 text-primary" /><span>+316 87 06 66 51</span></div>
               </div>
